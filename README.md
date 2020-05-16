@@ -8,6 +8,7 @@ To check probe availability, use `agent.ping` item.
 * Settings save into EEPROM.
 * Default IP is `192.168.1.200`
 * Added JSON. `<IP>/json`. Tested with OpenHab2.
+* Now you can change DS18B20 resolution.  9 == 0.5°C, 10 == 0.25°C, 11 == 0.125°C, 12 == 0.0625°C.
 
 _____
 Ещё один термометр на NodeMCU + DS18B20 + Wiznet W5500, на этот раз для работы с Zabbix. Спасибо примерам Arduino и посту https://habr.com/ru/post/405077/ за идею. 
@@ -18,6 +19,7 @@ _____
 * Настройки сохраняются в EEPROM.
 * IP по умолчанию `192.168.1.200`
 * Добавлена выдача JSON. `<IP>/json`. Протестировано с OpenHab2
+* Теперь можно менять разрешение DS18B20.  9 == 0.5°C, 10 == 0.25°C, 11 == 0.125°C, 12 == 0.0625°C.
 _____
  Main page\
 ![term-main](https://user-images.githubusercontent.com/59312754/82117491-eb6ed380-9778-11ea-8fc8-4f140aa62ece.PNG)\
