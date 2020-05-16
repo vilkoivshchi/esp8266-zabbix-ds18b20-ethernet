@@ -24,7 +24,7 @@ _____
  Main page\
 ![term-main](https://user-images.githubusercontent.com/59312754/82117491-eb6ed380-9778-11ea-8fc8-4f140aa62ece.PNG)\
  `/setup` page\
-![term-setup](https://user-images.githubusercontent.com/59312754/82117347-f2e1ad00-9777-11ea-83a5-0249688fc383.PNG)\
+![term-setup](https://user-images.githubusercontent.com/59312754/82121054-f6366200-9792-11ea-9618-6d4adfe676e6.PNG)\
  `/json` page\
 ![json-page](https://user-images.githubusercontent.com/59312754/82117495-faee1c80-9778-11ea-9d2f-def74519ee22.PNG)
 
